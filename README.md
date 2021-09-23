@@ -4,7 +4,8 @@
 Task Description1.1 📄
  📌 Create a blog/article/video/document about explaining various options for zenity with output screenshots
 
-Task Description 1.2 📄
+🔹 ARTH - Task 1.2 🔹
+Task Description 📄
  📌 Explore espeak-ng options
 
 🔹 ARTH - Task 1.3🔹
